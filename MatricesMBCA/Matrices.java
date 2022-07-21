@@ -1,4 +1,4 @@
-public static void main(String[] args) {
+public class MatricesMBCA {
     Scanner lt=new Scanner(System.in);
 
     public void  transformadaMB06() {
